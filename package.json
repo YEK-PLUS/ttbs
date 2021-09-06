@@ -1,6 +1,6 @@
 {
   "name": "@yek-plus/ttbs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "TTBS connector",
   "main": "lib/index.js",
   "scripts": {
@@ -14,7 +14,7 @@
     "ttbs"
   ],
   "author": "YEK-PLUS",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/YEK-PLUS/ttbs/issues"
   },

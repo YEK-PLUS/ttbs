@@ -32,7 +32,7 @@ ttbs().get({ ttbsNo: 3501184 }).then(console.log);
 ### Response
 
 ```js
-{
+const response = {
   status: Boolean,
   error: String,
   doc: {
